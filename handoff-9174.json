@@ -1,0 +1,12 @@
+{
+  "session": 9174,
+  "format_version": 3,
+  "cipher": "AES-256-GCM",
+  "kdf": "PBKDF2-HMAC-SHA256",
+  "iterations": 200000,
+  "key_material": "archive_secret|handoff_token",
+  "salt": "fD0Sgvu7ZNyV2Tc6nQqnHw==",
+  "nonce": "e5GcuMA0fOjIgbKu",
+  "ciphertext": "bXWfB91hPKrXfr4bk+WP3bHkNVY+cwdgVz67gga5NSdkP2pJAmd4dLkTqOw=",
+  "tag": "kh8HLLXzm1nYnTICm1jQVQ=="
+}
