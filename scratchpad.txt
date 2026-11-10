@@ -1,3 +1,0 @@
-session: 9174
-codec: xor/base64
-payload: Cnc2TCx/LDoUTx5XBF4OATlrHg0PWg43K1BFXzQHFAR8UENJ
